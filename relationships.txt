@@ -5,6 +5,4 @@ product -> sales   oneToOne
 
 product -> purchases   oneToOne
 
-user -> products  oneToMany
-
-user -> sales oneToOne
+new project version control
